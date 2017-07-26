@@ -1,0 +1,20 @@
+-SingleResponsibility
+	-A class should only have one reason to change
+	-Separation of concerns - different classes handling different, independent tasks/problems
+
+-OpenClosed
+	-Classes should be open for extension, but closed for modification
+
+-LiskovSubstitution
+	-You should be able to substitute a base type for subtype
+
+-InterfaceSegregation
+	-Don't put too much into an interface
+  -Split info separate interfaces
+  -YAGNI - You Ain't Going to Need It
+
+-DependencyInversion
+	-High-level modules should not depend upon low-level ones
+	-Use abstractions
+
+

@@ -1527,11 +1527,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\yolor\\Desktop\\Dmitri\\DmitriCourse\\src\\Bridge\\StandardBridge\\StandardBridge.csproj",
+      "projectUniqueName": "C:\\Users\\yolor\\Source\\Repos\\DesignPatterns\\DmitriCourse\\src\\Bridge\\StandardBridge\\StandardBridge.csproj",
       "projectName": "StandardBridge",
-      "projectPath": "C:\\Users\\yolor\\Desktop\\Dmitri\\DmitriCourse\\src\\Bridge\\StandardBridge\\StandardBridge.csproj",
+      "projectPath": "C:\\Users\\yolor\\Source\\Repos\\DesignPatterns\\DmitriCourse\\src\\Bridge\\StandardBridge\\StandardBridge.csproj",
       "packagesPath": "C:\\Users\\yolor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yolor\\Desktop\\Dmitri\\DmitriCourse\\src\\Bridge\\StandardBridge\\obj\\",
+      "outputPath": "C:\\Users\\yolor\\Source\\Repos\\DesignPatterns\\DmitriCourse\\src\\Bridge\\StandardBridge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yolor\\AppData\\Roaming\\NuGet\\NuGet.Config",

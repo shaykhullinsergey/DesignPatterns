@@ -1527,11 +1527,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\yolor\\Desktop\\Dmitri\\DmitriCourse\\src\\Adapter\\CacheAdapter\\CacheAdapter.csproj",
+      "projectUniqueName": "C:\\Users\\yolor\\Source\\Repos\\DesignPatterns\\DmitriCourse\\src\\Adapter\\CacheAdapter\\CacheAdapter.csproj",
       "projectName": "CacheAdapter",
-      "projectPath": "C:\\Users\\yolor\\Desktop\\Dmitri\\DmitriCourse\\src\\Adapter\\CacheAdapter\\CacheAdapter.csproj",
+      "projectPath": "C:\\Users\\yolor\\Source\\Repos\\DesignPatterns\\DmitriCourse\\src\\Adapter\\CacheAdapter\\CacheAdapter.csproj",
       "packagesPath": "C:\\Users\\yolor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yolor\\Desktop\\Dmitri\\DmitriCourse\\src\\Adapter\\CacheAdapter\\obj\\",
+      "outputPath": "C:\\Users\\yolor\\Source\\Repos\\DesignPatterns\\DmitriCourse\\src\\Adapter\\CacheAdapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yolor\\AppData\\Roaming\\NuGet\\NuGet.Config",

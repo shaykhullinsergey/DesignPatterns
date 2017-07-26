@@ -1,0 +1,16 @@
+Factories
+-A component responsible solely for the wholesale creation of objects
+
+-Object creation logic become too convoluted
+-Constructor not descriptive
+	-Name mandated by name of containing type
+	-Cannot overload with same sets of arguments with different names
+	-Can turn into optional parameter hell
+-Object creation can be outscored to
+	-A separate function (Factory Method)
+	-That may exist in a separate class (Factory)
+	-Can create hierarchy of factories (Abstract Factory)
+
+-A factory method is a static method that creates objects
+-A factory can take be external or reside inside the object as an inner class
+-Hierarchies of factories can be used to create related objects

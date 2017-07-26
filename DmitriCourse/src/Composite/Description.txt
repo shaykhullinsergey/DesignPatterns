@@ -1,0 +1,15 @@
+Composite
+-A mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner
+
+-Objects use other fields/properties/members through inheritance and composition
+-Composition lets us make compound objects
+	-Mathematical expression composed of simple expressions
+	-A grouping of shapes that consists of several shapes
+-Composite design pattern is used to treat both single(scalar) and composite objects uniformly
+	-Foo and Collection<Foo> have common API
+
+-Objects can use other objects via inheritance/composition
+-Some composed and singular objects need similar/identical behaviours
+-Composite design pattern lets us treat both types of objects unfortunately
+-C# has special support for the enumaration concept
+-A single object can maswuerade as a collection with yield return this;
