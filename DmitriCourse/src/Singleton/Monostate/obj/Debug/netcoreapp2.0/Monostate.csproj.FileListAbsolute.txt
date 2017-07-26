@@ -1,0 +1,11 @@
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\bin\Debug\netcoreapp2.0\Monostate.deps.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\bin\Debug\netcoreapp2.0\Monostate.runtimeconfig.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\bin\Debug\netcoreapp2.0\Monostate.runtimeconfig.dev.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\bin\Debug\netcoreapp2.0\Monostate.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\bin\Debug\netcoreapp2.0\Monostate.pdb
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\obj\Debug\netcoreapp2.0\Monostate.csprojResolveAssemblyReference.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\obj\Debug\netcoreapp2.0\Monostate.csproj.CoreCompileInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\obj\Debug\netcoreapp2.0\Monostate.AssemblyInfoInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\obj\Debug\netcoreapp2.0\Monostate.AssemblyInfo.cs
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\obj\Debug\netcoreapp2.0\Monostate.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\Monostate\obj\Debug\netcoreapp2.0\Monostate.pdb

@@ -1,0 +1,16 @@
+Singleton
+-A component which is instantiated only once
+
+-For some components it only makes sense to have one in the system
+	-Database repository
+	-Object factory
+-Constructor call is expensive
+	-We only do it once
+	-We provide everyone with the same instance
+-Want to prevent anyone creating additional copies
+-Need to take care of lazy instantiation and thread safety
+
+-Making a 'safe' singleton is easy: construct a static Lazy<T> and return its Value
+-Singletons are difficult to test
+-Instead of directly using a singleton, consider depending on an abstraction
+-Consider defining singleton lifetime in DI container

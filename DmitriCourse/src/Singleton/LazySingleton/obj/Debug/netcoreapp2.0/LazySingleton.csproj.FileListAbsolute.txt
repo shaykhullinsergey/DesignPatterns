@@ -1,0 +1,11 @@
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\bin\Debug\netcoreapp2.0\LazySingleton.deps.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\bin\Debug\netcoreapp2.0\LazySingleton.runtimeconfig.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\bin\Debug\netcoreapp2.0\LazySingleton.runtimeconfig.dev.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\bin\Debug\netcoreapp2.0\LazySingleton.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\bin\Debug\netcoreapp2.0\LazySingleton.pdb
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\obj\Debug\netcoreapp2.0\LazySingleton.csprojResolveAssemblyReference.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\obj\Debug\netcoreapp2.0\LazySingleton.csproj.CoreCompileInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\obj\Debug\netcoreapp2.0\LazySingleton.AssemblyInfoInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\obj\Debug\netcoreapp2.0\LazySingleton.AssemblyInfo.cs
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\obj\Debug\netcoreapp2.0\LazySingleton.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Singleton\LazySingleton\obj\Debug\netcoreapp2.0\LazySingleton.pdb

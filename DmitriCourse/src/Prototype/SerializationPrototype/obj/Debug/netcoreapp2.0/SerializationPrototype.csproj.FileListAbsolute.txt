@@ -1,0 +1,10 @@
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\bin\Debug\netcoreapp2.0\SerializationPrototype.deps.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\bin\Debug\netcoreapp2.0\SerializationPrototype.runtimeconfig.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\bin\Debug\netcoreapp2.0\SerializationPrototype.runtimeconfig.dev.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\bin\Debug\netcoreapp2.0\SerializationPrototype.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\bin\Debug\netcoreapp2.0\SerializationPrototype.pdb
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\obj\Debug\netcoreapp2.0\SerializationPrototype.csproj.CoreCompileInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\obj\Debug\netcoreapp2.0\SerializationPrototype.AssemblyInfoInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\obj\Debug\netcoreapp2.0\SerializationPrototype.AssemblyInfo.cs
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\obj\Debug\netcoreapp2.0\SerializationPrototype.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Prototype\SerializationPrototype\obj\Debug\netcoreapp2.0\SerializationPrototype.pdb
