@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": [
+      "Microsoft.NETCore.App >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yolor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yolor\\Desktop\\Patterns\\Creational\\Prototype\\Prototype.csproj",
+      "projectName": "Prototype",
+      "projectPath": "C:\\Users\\yolor\\Desktop\\Patterns\\Creational\\Prototype\\Prototype.csproj",
+      "outputPath": "C:\\Users\\yolor\\Desktop\\Patterns\\Creational\\Prototype\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
+          }
+        }
+      }
+    }
+  }
+}

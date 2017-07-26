@@ -1,0 +1,5 @@
+c:\Users\yolor\Desktop\Patterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.deps.json
+c:\Users\yolor\Desktop\Patterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.runtimeconfig.json
+c:\Users\yolor\Desktop\Patterns\Creational\Prototype\bin\Debug\netcoreapp2.0\Prototype.runtimeconfig.dev.json
+c:\Users\yolor\Desktop\Patterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.csproj.CoreCompileInputs.cache
+c:\Users\yolor\Desktop\Patterns\Creational\Prototype\obj\Debug\netcoreapp2.0\Prototype.AssemblyInfo.cs
