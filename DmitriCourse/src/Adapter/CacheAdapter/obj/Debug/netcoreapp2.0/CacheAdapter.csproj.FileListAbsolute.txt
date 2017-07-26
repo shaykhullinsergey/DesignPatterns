@@ -1,0 +1,11 @@
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\bin\Debug\netcoreapp2.0\CacheAdapter.deps.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\bin\Debug\netcoreapp2.0\CacheAdapter.runtimeconfig.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\bin\Debug\netcoreapp2.0\CacheAdapter.runtimeconfig.dev.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\bin\Debug\netcoreapp2.0\CacheAdapter.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\bin\Debug\netcoreapp2.0\CacheAdapter.pdb
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\obj\Debug\netcoreapp2.0\CacheAdapter.csproj.CoreCompileInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\obj\Debug\netcoreapp2.0\CacheAdapter.AssemblyInfoInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\obj\Debug\netcoreapp2.0\CacheAdapter.AssemblyInfo.cs
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\obj\Debug\netcoreapp2.0\CacheAdapter.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\obj\Debug\netcoreapp2.0\CacheAdapter.pdb
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Adapter\CacheAdapter\obj\Debug\netcoreapp2.0\CacheAdapter.csprojResolveAssemblyReference.cache

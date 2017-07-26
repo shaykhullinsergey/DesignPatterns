@@ -1,0 +1,9 @@
+Adapter
+-A construct which adapts an existsng interface X to conform to the required interface Y
+
+-We cannot modify our gadgets to support every possible interface
+-We use a special device (adapter) to give us the interface we require from the interface we have
+
+-Determine the API you have and the API you need
+-Create a component which aggregates the adaptee
+-Intermediate representations can pile up: use caching and other optimisations
