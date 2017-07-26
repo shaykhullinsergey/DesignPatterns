@@ -1,0 +1,11 @@
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\bin\Debug\netcoreapp2.0\StandardBridge.deps.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\bin\Debug\netcoreapp2.0\StandardBridge.runtimeconfig.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\bin\Debug\netcoreapp2.0\StandardBridge.runtimeconfig.dev.json
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\bin\Debug\netcoreapp2.0\StandardBridge.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\bin\Debug\netcoreapp2.0\StandardBridge.pdb
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\obj\Debug\netcoreapp2.0\StandardBridge.csprojResolveAssemblyReference.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\obj\Debug\netcoreapp2.0\StandardBridge.csproj.CoreCompileInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\obj\Debug\netcoreapp2.0\StandardBridge.AssemblyInfoInputs.cache
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\obj\Debug\netcoreapp2.0\StandardBridge.AssemblyInfo.cs
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\obj\Debug\netcoreapp2.0\StandardBridge.dll
+C:\Users\yolor\Desktop\Dmitri\DmitriCourse\src\Bridge\StandardBridge\obj\Debug\netcoreapp2.0\StandardBridge.pdb
